@@ -10,6 +10,8 @@ Discord: https://discord.com/invite/3uRE76zmpG
 
 Modrinth: https://modrinth.com/modpack/greenapple
 
+https://github.com/limerosee/GreenApple
+
 Telegram: https://t.me/lmpackstudios
 
 Issue tracker: https://github.com/limerosee/GreenApple/issues
